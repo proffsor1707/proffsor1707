@@ -1,4 +1,9 @@
-
+💫 About Me:
+• 🔭 I'm currently working on Employee Management System — Platform for Employee
+• 👯 I'm looking to collaborate on AI-powered tools & SaaS products
+• 🤝 I'm looking for help with scaling products & growth strategies
+• 🌱 I'm currently learning Data Science
+• 💬 Ask me about Data analysis, AI integrations, or content creation
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/priyanshu verma) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itzz_prince_pv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu_verma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prince.verma4865@gmail.com) 
 
