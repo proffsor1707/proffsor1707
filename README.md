@@ -1,16 +1,13 @@
-## Hi there 👋
+🌐 Socials:
+[Bluesky](https://bsky.app/profile/priyanshu verma) Instagram LinkedIn email
 
-<!--
-**proffsor1707/proffsor1707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tech Stack:
+Python PowerShell Java C Netlify Oracle Firebase Vercel AWS .Net Anaconda Bootstrap FastAPI NodeJS Next JS Nodemon React Webpack Apache MongoDB MySQL Framer Adobe Lightroom Pandas NumPy Matplotlib GitHub Steam
 
-Here are some ideas to get you started:
+📊 GitHub Stats:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
